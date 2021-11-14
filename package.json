@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "description": "Test for candidates",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "jest --watchAll --runInBand",
     "postinstall": "husky install"
